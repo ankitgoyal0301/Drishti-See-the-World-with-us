@@ -1,0 +1,1 @@
+export const backend_ip = "http://192.168.208.28:5000"
