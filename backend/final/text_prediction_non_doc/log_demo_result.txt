@@ -1,0 +1,302 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9530
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8387
+demo_image/demo_9.jpg    	bally                    	0.7490
+demo_image/demo_10.jpg   	university               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+maggi-f-cropped/maggi-f_185.15625_1136.7188_208.59375_1136.7188_208.59375_1188.2812_185.15625_1188.2812.jpg	b                        	0.4605
+maggi-f-cropped/maggi-f_185.15625_1195.3125_213.28125_1195.3125_213.28125_1214.0625_185.15625_1214.0625.jpg	per                      	0.9999
+maggi-f-cropped/maggi-f_187.5_1026.5625_208.59375_1026.5625_208.59375_1068.75_187.5_1068.75.jpg	i                        	0.3979
+maggi-f-cropped/maggi-f_187.5_1068.75_208.59375_1068.75_208.59375_1139.0625_187.5_1139.0625.jpg	i                        	0.3162
+maggi-f-cropped/maggi-f_189.84375_1228.125_234.375_1228.125_234.375_1256.25_189.84375_1256.25.jpg	310                      	0.9990
+maggi-f-cropped/maggi-f_189.84375_1256.25_234.375_1256.25_234.375_1267.9688_189.84375_1267.9688.jpg	calories                 	0.9945
+maggi-f-cropped/maggi-f_225.0_1192.9688_288.28125_1192.9688_288.28125_1214.0625_225.0_1214.0625.jpg	package                  	1.0000
+maggi-f-cropped/maggi-f_246.09375_1251.5625_283.59375_1251.5625_283.59375_1265.625_246.09375_1265.625.jpg	satfat                   	0.8890
+maggi-f-cropped/maggi-f_248.4375_1270.3125_274.21875_1270.3125_274.21875_1277.3438_248.4375_1277.3438.jpg	25000                    	0.0821
+maggi-f-cropped/maggi-f_277.95428_1090.5245_349.65256_1132.7001_340.61493_1148.064_268.9167_1105.8885.jpg	sentinglession           	0.0000
+maggi-f-cropped/maggi-f_292.96875_1230.4688_325.78125_1230.4688_325.78125_1251.5625_292.96875_1251.5625.jpg	9770                     	0.7119
+maggi-f-cropped/maggi-f_297.65625_1249.2188_335.15625_1249.2188_335.15625_1265.625_297.65625_1265.625.jpg	sodium                   	0.9995
+maggi-f-cropped/maggi-f_318.94724_667.2833_509.4071_671.0178_508.4586_719.3907_317.99872_715.6562.jpg	authentic                	0.9998
+maggi-f-cropped/maggi-f_349.21875_1263.2812_386.71875_1263.2812_386.71875_1277.3438_349.21875_1277.3438.jpg	sugars                   	0.9999
+maggi-f-cropped/maggi-f_353.90625_1251.5625_384.375_1251.5625_384.375_1263.2812_353.90625_1263.2812.jpg	total                    	0.9999
+maggi-f-cropped/maggi-f_422.72144_326.39157_672.30707_317.88297_674.4682_381.277_424.88257_389.7856.jpg	maggi                    	0.9997
+maggi-f-cropped/maggi-f_440.13254_524.15186_730.2104_506.022_736.1473_601.0122_446.06946_619.1421.jpg	monute                   	0.3072
+maggi-f-cropped/maggi-f_454.89767_576.74036_568.3675_567.28455_571.7781_608.2113_458.30823_617.6671.jpg	neo                      	0.9344
+maggi-f-cropped/maggi-f_513.28125_665.625_639.84375_665.625_639.84375_714.84375_513.28125_714.84375.jpg	indian                   	0.9997
+maggi-f-cropped/maggi-f_589.8564_743.72375_857.7117_739.2596_859.04333_819.15924_591.18805_823.6234.jpg	masalas                  	0.6148
+maggi-f-cropped/maggi-f_638.2602_654.0329_793.7585_629.48065_802.06287_682.0757_646.5646_706.628.jpg	noodles                  	0.9993
+maggi-f-cropped/maggi-f_738.28125_1031.25_775.78125_1031.25_775.78125_1047.6562_738.28125_1047.6562.jpg	made                     	1.0000
+maggi-f-cropped/maggi-f_742.96875_1251.5625_782.8125_1251.5625_782.8125_1282.0312_742.96875_1282.0312.jpg	net                      	1.0000
+maggi-f-cropped/maggi-f_763.10394_948.798_864.686_943.71893_866.00104_970.0203_764.419_975.09937.jpg	simply                   	1.0000
+maggi-f-cropped/maggi-f_772.0942_1030.8783_805.7927_1027.134_807.53625_1042.8258_773.8377_1046.57.jpg	with                     	0.9988
+maggi-f-cropped/maggi-f_774.6202_972.85095_855.2308_968.37256_856.7019_994.85333_776.0913_999.3317.jpg	good                     	1.0000
+maggi-f-cropped/maggi-f_782.8125_1251.5625_815.625_1251.5625_815.625_1279.6875_782.8125_1279.6875.jpg	wt                       	0.9993
+maggi-f-cropped/maggi-f_796.875_239.0625_914.0625_239.0625_914.0625_264.84375_796.875_264.84375.jpg	export                   	1.0000
+maggi-f-cropped/maggi-f_805.1471_1028.6305_852.8217_1024.9633_854.20044_1042.886_806.5258_1046.5532.jpg	quality                  	0.9997
+maggi-f-cropped/maggi-f_815.625_1251.5625_860.15625_1251.5625_860.15625_1282.0312_815.625_1282.0312.jpg	246                      	0.9991
+maggi-f-cropped/maggi-f_817.96875_264.84375_897.65625_264.84375_897.65625_290.625_817.96875_290.625.jpg	pack                     	1.0000
+maggi-f-cropped/maggi-f_853.125_1026.5625_895.3125_1026.5625_895.3125_1042.9688_853.125_1042.9688.jpg	spices                   	0.9998
+maggi-f-cropped/maggi-f_860.15625_1251.5625_890.625_1251.5625_890.625_1282.0312_860.15625_1282.0312.jpg	oz                       	0.9992
+maggi-f-cropped/maggi-f_888.28125_1253.9062_944.53125_1253.9062_944.53125_1289.0625_888.28125_1289.0625.jpg	170gy                    	0.4901
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+ove-images-dewarp-cropped/ove_doc_thresh01.jpg	contracticationary       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh02.jpg	interriguationists       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh03.jpg	internountingly          	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh04.jpg	internonounciously       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh05.jpg	checkingwhoknew          	0.9915
+ove-images-dewarp-cropped/ove_doc_thresh06.jpg	contractionaging         	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh07.jpg	minitracincing           	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh08.jpg	nondempropraphically     	0.0002
+ove-images-dewarp-cropped/ove_doc_thresh09.jpg	intercumentionalizing    	0.0001
+ove-images-dewarp-cropped/ove_doc_thresh10.jpg	peopleabulstoput         	0.0526
+ove-images-dewarp-cropped/ove_doc_thresh11.jpg	it                       	0.8923
+ove-images-dewarp-cropped/ove_doc_thresh12.jpg	intermentation           	0.0006
+ove-images-dewarp-cropped/ove_doc_thresh13.jpg	tosecitanotherway        	0.5250
+ove-images-dewarp-cropped/ove_doc_thresh14.jpg	intercompleting          	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh15.jpg	antimissicatement        	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh16.jpg	makaloterhemponn         	0.0004
+ove-images-dewarp-cropped/ove_doc_thresh17.jpg	intercomplessionalizing  	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh18.jpg	interappessibility       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh19.jpg	misraimplinention        	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh20.jpg	intermitulitations       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh21.jpg	interporationalizing     	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh22.jpg	interchilationists       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh23.jpg	nonternorticallatic      	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh24.jpg	bolintarachouncent       	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh25.jpg	nameofthe                	0.9731
+ove-images-dewarp-cropped/ove_doc_thresh26.jpg	controportionalization   	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh27.jpg	sentomtlemonocourship    	0.0001
+ove-images-dewarp-cropped/ove_doc_thresh28.jpg	interigulationists       	0.0023
+ove-images-dewarp-cropped/ove_doc_thresh29.jpg	intigentalitionaristic   	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh30.jpg	shortstaken              	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh31.jpg	a                        	0.9994
+ove-images-dewarp-cropped/ove_doc_thresh32.jpg	pad                      	0.9994
+ove-images-dewarp-cropped/ove_doc_thresh33.jpg	interturugrications      	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh34.jpg	a                        	0.9445
+ove-images-dewarp-cropped/ove_doc_thresh35.jpg	dog                      	1.0000
+ove-images-dewarp-cropped/ove_doc_thresh36.jpg	oversomelicentilation    	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh37.jpg	quinting                 	0.0036
+ove-images-dewarp-cropped/ove_doc_thresh38.jpg	nontraconolographous     	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh39.jpg	ovenodded                	0.7232
+ove-images-dewarp-cropped/ove_doc_thresh40.jpg	insuperationalization    	0.0004
+ove-images-dewarp-cropped/ove_doc_thresh41.jpg	remortinistrication      	0.0000
+ove-images-dewarp-cropped/ove_doc_thresh42.jpg	paperinhishand           	0.7331
+ove-images-dewarp-cropped/ove_doc_thresh43.jpg	97                       	0.9918
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+maggi-f-cropped/maggi-f_185.15625_1136.7188_208.59375_1136.7188_208.59375_1188.2812_185.15625_1188.2812 - Copy (2).jpg	b                        	0.4605
+maggi-f-cropped/maggi-f_185.15625_1136.7188_208.59375_1136.7188_208.59375_1188.2812_185.15625_1188.2812 - Copy.jpg	b                        	0.4605
+maggi-f-cropped/maggi-f_185.15625_1136.7188_208.59375_1136.7188_208.59375_1188.2812_185.15625_1188.2812.jpg	b                        	0.4605
+maggi-f-cropped/maggi-f_185.15625_1195.3125_213.28125_1195.3125_213.28125_1214.0625_185.15625_1214.0625.jpg	per                      	0.9999
+maggi-f-cropped/maggi-f_187.5_1026.5625_208.59375_1026.5625_208.59375_1068.75_187.5_1068.75.jpg	i                        	0.3979
+maggi-f-cropped/maggi-f_187.5_1068.75_208.59375_1068.75_208.59375_1139.0625_187.5_1139.0625.jpg	i                        	0.3162
+maggi-f-cropped/maggi-f_189.84375_1228.125_234.375_1228.125_234.375_1256.25_189.84375_1256.25.jpg	310                      	0.9990
+maggi-f-cropped/maggi-f_189.84375_1256.25_234.375_1256.25_234.375_1267.9688_189.84375_1267.9688.jpg	calories                 	0.9945
+maggi-f-cropped/maggi-f_225.0_1192.9688_288.28125_1192.9688_288.28125_1214.0625_225.0_1214.0625.jpg	package                  	1.0000
+maggi-f-cropped/maggi-f_246.09375_1251.5625_283.59375_1251.5625_283.59375_1265.625_246.09375_1265.625.jpg	satfat                   	0.8890
+maggi-f-cropped/maggi-f_248.4375_1270.3125_274.21875_1270.3125_274.21875_1277.3438_248.4375_1277.3438.jpg	25000                    	0.0821
+maggi-f-cropped/maggi-f_277.95428_1090.5245_349.65256_1132.7001_340.61493_1148.064_268.9167_1105.8885.jpg	sentinglession           	0.0000
+maggi-f-cropped/maggi-f_292.96875_1230.4688_325.78125_1230.4688_325.78125_1251.5625_292.96875_1251.5625.jpg	9770                     	0.7119
+maggi-f-cropped/maggi-f_297.65625_1249.2188_335.15625_1249.2188_335.15625_1265.625_297.65625_1265.625.jpg	sodium                   	0.9995
+maggi-f-cropped/maggi-f_318.94724_667.2833_509.4071_671.0178_508.4586_719.3907_317.99872_715.6562.jpg	authentic                	0.9998
+maggi-f-cropped/maggi-f_349.21875_1263.2812_386.71875_1263.2812_386.71875_1277.3438_349.21875_1277.3438.jpg	sugars                   	0.9999
+maggi-f-cropped/maggi-f_353.90625_1251.5625_384.375_1251.5625_384.375_1263.2812_353.90625_1263.2812.jpg	total                    	0.9999
+maggi-f-cropped/maggi-f_422.72144_326.39157_672.30707_317.88297_674.4682_381.277_424.88257_389.7856.jpg	maggi                    	0.9997
+maggi-f-cropped/maggi-f_440.13254_524.15186_730.2104_506.022_736.1473_601.0122_446.06946_619.1421.jpg	monute                   	0.3072
+maggi-f-cropped/maggi-f_454.89767_576.74036_568.3675_567.28455_571.7781_608.2113_458.30823_617.6671.jpg	neo                      	0.9344
+maggi-f-cropped/maggi-f_513.28125_665.625_639.84375_665.625_639.84375_714.84375_513.28125_714.84375.jpg	indian                   	0.9997
+maggi-f-cropped/maggi-f_589.8564_743.72375_857.7117_739.2596_859.04333_819.15924_591.18805_823.6234.jpg	masalas                  	0.6148
+maggi-f-cropped/maggi-f_638.2602_654.0329_793.7585_629.48065_802.06287_682.0757_646.5646_706.628.jpg	noodles                  	0.9993
+maggi-f-cropped/maggi-f_738.28125_1031.25_775.78125_1031.25_775.78125_1047.6562_738.28125_1047.6562.jpg	made                     	1.0000
+maggi-f-cropped/maggi-f_742.96875_1251.5625_782.8125_1251.5625_782.8125_1282.0312_742.96875_1282.0312.jpg	net                      	1.0000
+maggi-f-cropped/maggi-f_763.10394_948.798_864.686_943.71893_866.00104_970.0203_764.419_975.09937.jpg	simply                   	1.0000
+maggi-f-cropped/maggi-f_772.0942_1030.8783_805.7927_1027.134_807.53625_1042.8258_773.8377_1046.57.jpg	with                     	0.9988
+maggi-f-cropped/maggi-f_774.6202_972.85095_855.2308_968.37256_856.7019_994.85333_776.0913_999.3317.jpg	good                     	1.0000
+maggi-f-cropped/maggi-f_782.8125_1251.5625_815.625_1251.5625_815.625_1279.6875_782.8125_1279.6875.jpg	wt                       	0.9993
+maggi-f-cropped/maggi-f_796.875_239.0625_914.0625_239.0625_914.0625_264.84375_796.875_264.84375.jpg	export                   	1.0000
+maggi-f-cropped/maggi-f_805.1471_1028.6305_852.8217_1024.9633_854.20044_1042.886_806.5258_1046.5532.jpg	quality                  	0.9997
+maggi-f-cropped/maggi-f_815.625_1251.5625_860.15625_1251.5625_860.15625_1282.0312_815.625_1282.0312.jpg	246                      	0.9991
+maggi-f-cropped/maggi-f_817.96875_264.84375_897.65625_264.84375_897.65625_290.625_817.96875_290.625.jpg	pack                     	1.0000
+maggi-f-cropped/maggi-f_853.125_1026.5625_895.3125_1026.5625_895.3125_1042.9688_853.125_1042.9688.jpg	spices                   	0.9998
+maggi-f-cropped/maggi-f_860.15625_1251.5625_890.625_1251.5625_890.625_1282.0312_860.15625_1282.0312.jpg	oz                       	0.9992
+maggi-f-cropped/maggi-f_888.28125_1253.9062_944.53125_1253.9062_944.53125_1289.0625_888.28125_1289.0625.jpg	170gy                    	0.4901
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+maggi-f-cropped/download (1).png	expice                   	0.0753
+maggi-f-cropped/maggi-f_185.15625_1136.7188_208.59375_1136.7188_208.59375_1188.2812_185.15625_1188.2812 - Copy (2).jpg	b                        	0.4605
+maggi-f-cropped/maggi-f_185.15625_1195.3125_213.28125_1195.3125_213.28125_1214.0625_185.15625_1214.0625.jpg	per                      	0.9999
+maggi-f-cropped/maggi-f_187.5_1026.5625_208.59375_1026.5625_208.59375_1068.75_187.5_1068.75.jpg	i                        	0.3979
+maggi-f-cropped/maggi-f_187.5_1068.75_208.59375_1068.75_208.59375_1139.0625_187.5_1139.0625.jpg	i                        	0.3162
+maggi-f-cropped/maggi-f_189.84375_1228.125_234.375_1228.125_234.375_1256.25_189.84375_1256.25.jpg	310                      	0.9990
+maggi-f-cropped/maggi-f_189.84375_1256.25_234.375_1256.25_234.375_1267.9688_189.84375_1267.9688.jpg	calories                 	0.9945
+maggi-f-cropped/maggi-f_225.0_1192.9688_288.28125_1192.9688_288.28125_1214.0625_225.0_1214.0625.jpg	package                  	1.0000
+maggi-f-cropped/maggi-f_246.09375_1251.5625_283.59375_1251.5625_283.59375_1265.625_246.09375_1265.625.jpg	satfat                   	0.8890
+maggi-f-cropped/maggi-f_248.4375_1270.3125_274.21875_1270.3125_274.21875_1277.3438_248.4375_1277.3438.jpg	25000                    	0.0821
+maggi-f-cropped/maggi-f_277.95428_1090.5245_349.65256_1132.7001_340.61493_1148.064_268.9167_1105.8885.jpg	sentinglession           	0.0000
+maggi-f-cropped/maggi-f_292.96875_1230.4688_325.78125_1230.4688_325.78125_1251.5625_292.96875_1251.5625.jpg	9770                     	0.7119
+maggi-f-cropped/maggi-f_297.65625_1249.2188_335.15625_1249.2188_335.15625_1265.625_297.65625_1265.625.jpg	sodium                   	0.9995
+maggi-f-cropped/maggi-f_318.94724_667.2833_509.4071_671.0178_508.4586_719.3907_317.99872_715.6562.jpg	authentic                	0.9998
+maggi-f-cropped/maggi-f_349.21875_1263.2812_386.71875_1263.2812_386.71875_1277.3438_349.21875_1277.3438.jpg	sugars                   	0.9999
+maggi-f-cropped/maggi-f_353.90625_1251.5625_384.375_1251.5625_384.375_1263.2812_353.90625_1263.2812.jpg	total                    	0.9999
+maggi-f-cropped/maggi-f_422.72144_326.39157_672.30707_317.88297_674.4682_381.277_424.88257_389.7856.jpg	maggi                    	0.9997
+maggi-f-cropped/maggi-f_440.13254_524.15186_730.2104_506.022_736.1473_601.0122_446.06946_619.1421.jpg	monute                   	0.3072
+maggi-f-cropped/maggi-f_454.89767_576.74036_568.3675_567.28455_571.7781_608.2113_458.30823_617.6671.jpg	neo                      	0.9344
+maggi-f-cropped/maggi-f_513.28125_665.625_639.84375_665.625_639.84375_714.84375_513.28125_714.84375.jpg	indian                   	0.9997
+maggi-f-cropped/maggi-f_589.8564_743.72375_857.7117_739.2596_859.04333_819.15924_591.18805_823.6234.jpg	masalas                  	0.6148
+maggi-f-cropped/maggi-f_638.2602_654.0329_793.7585_629.48065_802.06287_682.0757_646.5646_706.628.jpg	noodles                  	0.9993
+maggi-f-cropped/maggi-f_738.28125_1031.25_775.78125_1031.25_775.78125_1047.6562_738.28125_1047.6562.jpg	made                     	1.0000
+maggi-f-cropped/maggi-f_742.96875_1251.5625_782.8125_1251.5625_782.8125_1282.0312_742.96875_1282.0312.jpg	net                      	1.0000
+maggi-f-cropped/maggi-f_763.10394_948.798_864.686_943.71893_866.00104_970.0203_764.419_975.09937.jpg	simply                   	1.0000
+maggi-f-cropped/maggi-f_772.0942_1030.8783_805.7927_1027.134_807.53625_1042.8258_773.8377_1046.57.jpg	with                     	0.9988
+maggi-f-cropped/maggi-f_774.6202_972.85095_855.2308_968.37256_856.7019_994.85333_776.0913_999.3317.jpg	good                     	1.0000
+maggi-f-cropped/maggi-f_782.8125_1251.5625_815.625_1251.5625_815.625_1279.6875_782.8125_1279.6875.jpg	wt                       	0.9993
+maggi-f-cropped/maggi-f_796.875_239.0625_914.0625_239.0625_914.0625_264.84375_796.875_264.84375.jpg	export                   	1.0000
+maggi-f-cropped/maggi-f_805.1471_1028.6305_852.8217_1024.9633_854.20044_1042.886_806.5258_1046.5532.jpg	quality                  	0.9997
+maggi-f-cropped/maggi-f_815.625_1251.5625_860.15625_1251.5625_860.15625_1282.0312_815.625_1282.0312.jpg	246                      	0.9991
+maggi-f-cropped/maggi-f_817.96875_264.84375_897.65625_264.84375_897.65625_290.625_817.96875_290.625.jpg	pack                     	1.0000
+maggi-f-cropped/maggi-f_853.125_1026.5625_895.3125_1026.5625_895.3125_1042.9688_853.125_1042.9688.jpg	spices                   	0.9998
+maggi-f-cropped/maggi-f_860.15625_1251.5625_890.625_1251.5625_890.625_1282.0312_860.15625_1282.0312.jpg	oz                       	0.9992
+maggi-f-cropped/maggi-f_888.28125_1253.9062_944.53125_1253.9062_944.53125_1289.0625_888.28125_1289.0625.jpg	170gy                    	0.4901
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+maggi-f-cropped/download (1).png	expice                   	0.0753
+maggi-f-cropped/download (2).png	eoids                    	0.2841
+maggi-f-cropped/maggi-f_185.15625_1136.7188_208.59375_1136.7188_208.59375_1188.2812_185.15625_1188.2812 - Copy (2).jpg	b                        	0.4605
+maggi-f-cropped/maggi-f_185.15625_1195.3125_213.28125_1195.3125_213.28125_1214.0625_185.15625_1214.0625.jpg	per                      	0.9999
+maggi-f-cropped/maggi-f_187.5_1026.5625_208.59375_1026.5625_208.59375_1068.75_187.5_1068.75.jpg	i                        	0.3979
+maggi-f-cropped/maggi-f_187.5_1068.75_208.59375_1068.75_208.59375_1139.0625_187.5_1139.0625.jpg	i                        	0.3162
+maggi-f-cropped/maggi-f_189.84375_1228.125_234.375_1228.125_234.375_1256.25_189.84375_1256.25.jpg	310                      	0.9990
+maggi-f-cropped/maggi-f_189.84375_1256.25_234.375_1256.25_234.375_1267.9688_189.84375_1267.9688.jpg	calories                 	0.9945
+maggi-f-cropped/maggi-f_225.0_1192.9688_288.28125_1192.9688_288.28125_1214.0625_225.0_1214.0625.jpg	package                  	1.0000
+maggi-f-cropped/maggi-f_246.09375_1251.5625_283.59375_1251.5625_283.59375_1265.625_246.09375_1265.625.jpg	satfat                   	0.8890
+maggi-f-cropped/maggi-f_248.4375_1270.3125_274.21875_1270.3125_274.21875_1277.3438_248.4375_1277.3438.jpg	25000                    	0.0821
+maggi-f-cropped/maggi-f_277.95428_1090.5245_349.65256_1132.7001_340.61493_1148.064_268.9167_1105.8885.jpg	sentinglession           	0.0000
+maggi-f-cropped/maggi-f_292.96875_1230.4688_325.78125_1230.4688_325.78125_1251.5625_292.96875_1251.5625.jpg	9770                     	0.7119
+maggi-f-cropped/maggi-f_297.65625_1249.2188_335.15625_1249.2188_335.15625_1265.625_297.65625_1265.625.jpg	sodium                   	0.9995
+maggi-f-cropped/maggi-f_318.94724_667.2833_509.4071_671.0178_508.4586_719.3907_317.99872_715.6562.jpg	authentic                	0.9998
+maggi-f-cropped/maggi-f_349.21875_1263.2812_386.71875_1263.2812_386.71875_1277.3438_349.21875_1277.3438.jpg	sugars                   	0.9999
+maggi-f-cropped/maggi-f_353.90625_1251.5625_384.375_1251.5625_384.375_1263.2812_353.90625_1263.2812.jpg	total                    	0.9999
+maggi-f-cropped/maggi-f_422.72144_326.39157_672.30707_317.88297_674.4682_381.277_424.88257_389.7856.jpg	maggi                    	0.9997
+maggi-f-cropped/maggi-f_440.13254_524.15186_730.2104_506.022_736.1473_601.0122_446.06946_619.1421.jpg	monute                   	0.3072
+maggi-f-cropped/maggi-f_454.89767_576.74036_568.3675_567.28455_571.7781_608.2113_458.30823_617.6671.jpg	neo                      	0.9344
+maggi-f-cropped/maggi-f_513.28125_665.625_639.84375_665.625_639.84375_714.84375_513.28125_714.84375.jpg	indian                   	0.9997
+maggi-f-cropped/maggi-f_589.8564_743.72375_857.7117_739.2596_859.04333_819.15924_591.18805_823.6234.jpg	masalas                  	0.6148
+maggi-f-cropped/maggi-f_638.2602_654.0329_793.7585_629.48065_802.06287_682.0757_646.5646_706.628.jpg	noodles                  	0.9993
+maggi-f-cropped/maggi-f_738.28125_1031.25_775.78125_1031.25_775.78125_1047.6562_738.28125_1047.6562.jpg	made                     	1.0000
+maggi-f-cropped/maggi-f_742.96875_1251.5625_782.8125_1251.5625_782.8125_1282.0312_742.96875_1282.0312.jpg	net                      	1.0000
+maggi-f-cropped/maggi-f_763.10394_948.798_864.686_943.71893_866.00104_970.0203_764.419_975.09937.jpg	simply                   	1.0000
+maggi-f-cropped/maggi-f_772.0942_1030.8783_805.7927_1027.134_807.53625_1042.8258_773.8377_1046.57.jpg	with                     	0.9988
+maggi-f-cropped/maggi-f_774.6202_972.85095_855.2308_968.37256_856.7019_994.85333_776.0913_999.3317.jpg	good                     	1.0000
+maggi-f-cropped/maggi-f_782.8125_1251.5625_815.625_1251.5625_815.625_1279.6875_782.8125_1279.6875.jpg	wt                       	0.9993
+maggi-f-cropped/maggi-f_796.875_239.0625_914.0625_239.0625_914.0625_264.84375_796.875_264.84375.jpg	export                   	1.0000
+maggi-f-cropped/maggi-f_805.1471_1028.6305_852.8217_1024.9633_854.20044_1042.886_806.5258_1046.5532.jpg	quality                  	0.9997
+maggi-f-cropped/maggi-f_815.625_1251.5625_860.15625_1251.5625_860.15625_1282.0312_815.625_1282.0312.jpg	246                      	0.9991
+maggi-f-cropped/maggi-f_817.96875_264.84375_897.65625_264.84375_897.65625_290.625_817.96875_290.625.jpg	pack                     	1.0000
+maggi-f-cropped/maggi-f_853.125_1026.5625_895.3125_1026.5625_895.3125_1042.9688_853.125_1042.9688.jpg	spices                   	0.9998
+maggi-f-cropped/maggi-f_860.15625_1251.5625_890.625_1251.5625_890.625_1282.0312_860.15625_1282.0312.jpg	oz                       	0.9992
+maggi-f-cropped/maggi-f_888.28125_1253.9062_944.53125_1253.9062_944.53125_1289.0625_888.28125_1289.0625.jpg	170gy                    	0.4901
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+gama-lama-cropped/traffic-rules-in-india_487.02844_400.80328_871.6068_395.64124_872.39685_454.5023_487.81854_459.66434.jpg	onthelandoflama          	0.6739
+gama-lama-cropped/traffic-rules-in-india_500.40308_246.29242_591.0847_166.66948_626.9094_207.46977_536.2277_287.09274.jpg	consers                  	0.0002
+gama-lama-cropped/traffic-rules-in-india_504.6875_323.4375_598.4375_323.4375_598.4375_382.8125_504.6875_382.8125.jpg	don                      	0.9998
+gama-lama-cropped/traffic-rules-in-india_506.25_528.125_621.875_528.125_621.875_570.3125_506.25_570.3125.jpg	753tf                    	0.9524
+gama-lama-cropped/traffic-rules-in-india_595.3125_321.875_782.8125_321.875_782.8125_382.8125_595.3125_382.8125.jpg	tbecome                  	0.9477
+gama-lama-cropped/traffic-rules-in-india_603.9548_164.64441_683.61_158.00647_687.6401_206.36855_607.9849_213.00647.jpg	road                     	0.9447
+gama-lama-cropped/traffic-rules-in-india_706.47766_135.41806_868.0859_253.668_826.623_310.3339_665.0148_192.08395.jpg	corganisming             	0.0355
+gama-lama-cropped/traffic-rules-in-india_727.24316_532.5167_829.36066_529.51324_830.5828_571.0674_728.4654_574.07086.jpg	51rcc                    	0.8910
+gama-lama-cropped/traffic-rules-in-india_778.125_321.875_871.875_321.875_871.875_381.25_778.125_381.25.jpg	gama                     	0.9991
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+gama-lama-cropped/download (3).png	serangation              	0.0570
+gama-lama-cropped/traffic-rules-in-india_487.02844_400.80328_871.6068_395.64124_872.39685_454.5023_487.81854_459.66434.jpg	onthelandoflama          	0.6739
+gama-lama-cropped/traffic-rules-in-india_500.40308_246.29242_591.0847_166.66948_626.9094_207.46977_536.2277_287.09274.jpg	consers                  	0.0002
+gama-lama-cropped/traffic-rules-in-india_504.6875_323.4375_598.4375_323.4375_598.4375_382.8125_504.6875_382.8125.jpg	don                      	0.9998
+gama-lama-cropped/traffic-rules-in-india_506.25_528.125_621.875_528.125_621.875_570.3125_506.25_570.3125.jpg	753tf                    	0.9524
+gama-lama-cropped/traffic-rules-in-india_595.3125_321.875_782.8125_321.875_782.8125_382.8125_595.3125_382.8125.jpg	tbecome                  	0.9477
+gama-lama-cropped/traffic-rules-in-india_603.9548_164.64441_683.61_158.00647_687.6401_206.36855_607.9849_213.00647.jpg	road                     	0.9447
+gama-lama-cropped/traffic-rules-in-india_706.47766_135.41806_868.0859_253.668_826.623_310.3339_665.0148_192.08395.jpg	corganisming             	0.0355
+gama-lama-cropped/traffic-rules-in-india_727.24316_532.5167_829.36066_529.51324_830.5828_571.0674_728.4654_574.07086.jpg	51rcc                    	0.8910
+gama-lama-cropped/traffic-rules-in-india_778.125_321.875_871.875_321.875_871.875_381.25_778.125_381.25.jpg	gama                     	0.9991
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+gama-lama-cropped/download (3).png	serangation              	0.0570
+gama-lama-cropped/download (4).png	border                   	0.9628
+gama-lama-cropped/traffic-rules-in-india_487.02844_400.80328_871.6068_395.64124_872.39685_454.5023_487.81854_459.66434.jpg	onthelandoflama          	0.6739
+gama-lama-cropped/traffic-rules-in-india_500.40308_246.29242_591.0847_166.66948_626.9094_207.46977_536.2277_287.09274.jpg	consers                  	0.0002
+gama-lama-cropped/traffic-rules-in-india_504.6875_323.4375_598.4375_323.4375_598.4375_382.8125_504.6875_382.8125.jpg	don                      	0.9998
+gama-lama-cropped/traffic-rules-in-india_506.25_528.125_621.875_528.125_621.875_570.3125_506.25_570.3125.jpg	753tf                    	0.9524
+gama-lama-cropped/traffic-rules-in-india_595.3125_321.875_782.8125_321.875_782.8125_382.8125_595.3125_382.8125.jpg	tbecome                  	0.9477
+gama-lama-cropped/traffic-rules-in-india_603.9548_164.64441_683.61_158.00647_687.6401_206.36855_607.9849_213.00647.jpg	road                     	0.9447
+gama-lama-cropped/traffic-rules-in-india_706.47766_135.41806_868.0859_253.668_826.623_310.3339_665.0148_192.08395.jpg	corganisming             	0.0355
+gama-lama-cropped/traffic-rules-in-india_727.24316_532.5167_829.36066_529.51324_830.5828_571.0674_728.4654_574.07086.jpg	51rcc                    	0.8910
+gama-lama-cropped/traffic-rules-in-india_778.125_321.875_871.875_321.875_871.875_381.25_778.125_381.25.jpg	gama                     	0.9991
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+test-imgs/channel-cropped.png	chanel                   	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+test-imgs/channel-cropped.png	chanel                   	0.9999
+test-imgs/channel_r1.png 	chanel                   	0.9999
+test-imgs/channel_r2.png 	chanel                   	0.9999
+test-imgs/channel_r3.png 	chanel                   	0.9997
+test-imgs/channel_r4.png 	chanely                  	0.1374
+test-imgs/channel_r5.png 	chanel                   	0.9999
+test-imgs/channel_r6.png 	chanely                  	0.4548
+test-imgs/channel_r45_1.png	chanel                   	0.9998
+test-imgs/channel_r45_2.png	chanel                   	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+test-imgs/test-test-r1.png	testiest                 	0.8343
+test-imgs/test-test-r2.png	test                     	0.9985
+test-imgs/test-test-r3.png	test                     	0.9999
+test-imgs/test-test-r4.png	test                     	0.9979
+test-imgs/test-test-r5.png	tes                      	0.9978
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+test-imgs/test-test-r1.png	testiest                 	0.8343
+test-imgs/test-test-r2.png	test                     	0.9985
+test-imgs/test-test-r3.png	test                     	0.9999
+test-imgs/test-test-r4.png	test                     	0.9979
+test-imgs/test-test-r5.png	tes                      	0.9978
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+test-imgs/PEC-Logo-jpg.jpg	pec                      	0.3028
+test-imgs/test-test-r1.png	testiest                 	0.8343
+test-imgs/test-test-r2.png	test                     	0.9985
+test-imgs/test-test-r3.png	test                     	0.9999
+test-imgs/test-test-r4.png	test                     	0.9979
+test-imgs/test-test-r5.png	tes                      	0.9978
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+test-imgs/PEC-Logo-jpg.jpg	pec                      	0.3028
+test-imgs/pec-logo-cropped.png	pec                      	0.7111
+test-imgs/test-test-r1.png	testiest                 	0.8343
+test-imgs/test-test-r2.png	test                     	0.9985
+test-imgs/test-test-r3.png	test                     	0.9999
+test-imgs/test-test-r4.png	test                     	0.9979
+test-imgs/test-test-r5.png	tes                      	0.9978
