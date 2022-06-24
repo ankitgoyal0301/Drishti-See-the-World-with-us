@@ -20,10 +20,10 @@ flask run --host=0.0.0.0
 
 #### Allowing Port:
 
-![Open a static port in the Windows firewall for TCP access](https://www.firehousesoftware.com/webhelp/FH/Content/FHEnterprise/FHEnterpriseInstallationGuide/24_StaticPort.htm)
+[Open a static port in the Windows firewall for TCP access](https://www.firehousesoftware.com/webhelp/FH/Content/FHEnterprise/FHEnterpriseInstallationGuide/24_StaticPort.htm)
 
 #### Running flask:
 
-![Configure Flask dev server to be visible across the network](https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network)
+[Configure Flask dev server to be visible across the network](https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network)
 
 **Note:** MUST BE ON SAME NETWORK!
