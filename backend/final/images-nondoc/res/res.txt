@@ -1,0 +1,23 @@
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmprc96s5r0_cropped.png', 'transcend', tensor(0.9999)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpz80qnmuz_cropped.png', 'triple', tensor(0.9997)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpyp3t3ert_cropped.png', 'protection', tensor(0.9999)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpty3foo3__cropped.png', '31730', tensor(0.5131)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpzbyrx7pu_cropped.png', 'portable', tensor(0.9999)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpmkkeqlfq_cropped.png', 'hard', tensor(1.0000)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpkzbguhpm_cropped.png', 'drive', tensor(1.0000)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmph52wpryr_cropped.png', '1tb', tensor(0.9791)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpyixmjs1q_cropped.png', 'storejet', tensor(0.9999)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpzlfyk6iz_cropped.png', '25m3', tensor(0.9995)]
+model input parameters 32 100 20 1 512 256 38 25 TPS ResNet BiLSTM Attn
+loading pretrained model from ./text_prediction_non_doc/TPS-ResNet-BiLSTM-Attn.pth
+--------------------------------------------------------------------------------
+image_path                      predicted_labels                confidence score
+--------------------------------------------------------------------------------
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpumrw4u4p_cropped.png', 'punjab', tensor(0.9990)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpefgc_fcg_cropped.png', 'engineering', tensor(0.9998)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpi57b_bj3_cropped.png', 'college', tensor(0.9415)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpzi8p3g5m_cropped.png', 'chandigarh', tensor(0.9985)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmps_om6w2y_cropped.png', 'deemed', tensor(0.9972)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmp4l4kshns_cropped.png', 'to', tensor(0.9590)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpxasukxp1_cropped.png', 'be', tensor(0.9873)]
+['C:\\Users\\Lenovo\\AppData\\Local\\Temp\\tmpng1m3m2__cropped.png', 'university', tensor(0.9996)]

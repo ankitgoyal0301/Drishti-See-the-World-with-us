@@ -1,0 +1,45 @@
+Punjab Engineering College, Chandigarh
+ EXPLORE INNOVATE EXCEL
+ Mid-Term Examination
+ March, 2022
+ Programme: BE (CSE)
+ Year/Semester: 8" Sem
+ Course Name: Software Testing
+ Course Code: CSN 402
+ Maximum Marks: 40
+ Time allowed: 1.5 Hours
+ Notes:
+ Unless stated otherwise, the symbols have their usual meanings in context with
+ subject.
+ Assume suitably valid and state, additional data required, if any.
+ Consider an application that requires two integer inputs x and y. Each of these inputs
+ is expected to lie in the following ranges:
+ 3<x<7and5<y<9
+ Partition the input domain using uni-dimensional and multidimensional
+ partitioning.
+ b) Derive test sets based on the partitions created above
+ (10)
+ 2. The function wordcount() takes a word w and a file name fas input and returns the
+ number of occurrences of w in the text contained in the file named f An
+ exception is
+ raised if there is no file with name f
+ Using partitioning method identify the
+ equivalence classes based on input and output.
+ (10)
+ 3.
+ A company has a rental car policy for its employees. An employee of age greater than
+ 21 years and having a clean driving record is
+ ‘supplied with a rental car. A premium
+ amount is also charged if the employee is on
+ business trip, otherwise it is not
+ charged. If the employee is less than 21 years, or does not have a clean driving
+ record, the system will display the message “Rental car cannot be
+ supplied”. Draw
+ the cause-effect graph and generate test cases this problem
+ (10)
+ 4
+ Why do we undertake robustness testing? What are the additional benefits? Show
+ additional test cases with the help of an example and justify the
+ significance of these
+ test cases.
+ (10)

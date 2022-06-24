@@ -1,0 +1,533 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp5r7tdpcv_cropped.png	chandigarh               	0.9883
+C:\Users\Lenovo\AppData\Local\Temp\tmp6nf2etbs_cropped.png	punjab                   	0.9963
+C:\Users\Lenovo\AppData\Local\Temp\tmpdnymb21w_cropped.png	to                       	0.9672
+C:\Users\Lenovo\AppData\Local\Temp\tmpfhx20zwk_cropped.png	college                  	0.8897
+C:\Users\Lenovo\AppData\Local\Temp\tmpkek5h_x__cropped.png	university               	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpr_amf96e_cropped.png	engineering              	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmps7h0imsh_cropped.png	be                       	0.9482
+C:\Users\Lenovo\AppData\Local\Temp\tmpvhuvhf0v_cropped.png	deemed                   	0.9944
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp2rbx3c5d_cropped.png	be                       	0.9482
+C:\Users\Lenovo\AppData\Local\Temp\tmp9zi0oruo_cropped.png	engineering              	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmp_0zvejoc_cropped.png	to                       	0.9672
+C:\Users\Lenovo\AppData\Local\Temp\tmpc6ku08gv_cropped.png	college                  	0.8897
+C:\Users\Lenovo\AppData\Local\Temp\tmpj1_j44a6_cropped.png	chandigarh               	0.9883
+C:\Users\Lenovo\AppData\Local\Temp\tmpoce36ln5_cropped.png	university               	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpqu6ega7p_cropped.png	deemed                   	0.9944
+C:\Users\Lenovo\AppData\Local\Temp\tmpucypnb0f_cropped.png	punjab                   	0.9963
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp1lw3w9bc_cropped.png	chandigarh               	0.9883
+C:\Users\Lenovo\AppData\Local\Temp\tmp3_e99k0q_cropped.png	to                       	0.9672
+C:\Users\Lenovo\AppData\Local\Temp\tmp4_awevs__cropped.png	be                       	0.9482
+C:\Users\Lenovo\AppData\Local\Temp\tmp04xjd4a5_cropped.png	university               	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmp6g8phica_cropped.png	punjab                   	0.9963
+C:\Users\Lenovo\AppData\Local\Temp\tmp_m3a9mue_cropped.png	engineering              	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpkanbqzf6_cropped.png	college                  	0.8896
+C:\Users\Lenovo\AppData\Local\Temp\tmpy03ftiuc_cropped.png	deemed                   	0.9944
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp26k1_dx4_cropped.png	college                  	0.8897
+C:\Users\Lenovo\AppData\Local\Temp\tmpmc7a7van_cropped.png	be                       	0.9482
+C:\Users\Lenovo\AppData\Local\Temp\tmpna7onwyl_cropped.png	deemed                   	0.9944
+C:\Users\Lenovo\AppData\Local\Temp\tmppzqrjq4__cropped.png	to                       	0.9672
+C:\Users\Lenovo\AppData\Local\Temp\tmpqoxfyt75_cropped.png	engineering              	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpraugl0m7_cropped.png	university               	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmprppm7gk6_cropped.png	chandigarh               	0.9883
+C:\Users\Lenovo\AppData\Local\Temp\tmpuwnzzfc1_cropped.png	punjab                   	0.9963
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp1wwpr3m1_cropped.png	deemed                   	0.9944
+C:\Users\Lenovo\AppData\Local\Temp\tmpbuqcifw7_cropped.png	college                  	0.8897
+C:\Users\Lenovo\AppData\Local\Temp\tmpj6pbt42r_cropped.png	university               	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmprmczu6om_cropped.png	to                       	0.9672
+C:\Users\Lenovo\AppData\Local\Temp\tmprxu_wzpc_cropped.png	chandigarh               	0.9883
+C:\Users\Lenovo\AppData\Local\Temp\tmps25upudh_cropped.png	punjab                   	0.9963
+C:\Users\Lenovo\AppData\Local\Temp\tmpu58w3ar7_cropped.png	be                       	0.9482
+C:\Users\Lenovo\AppData\Local\Temp\tmpz4r4kpto_cropped.png	engineering              	0.9994
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpameua_y7_cropped.png	grown                    	0.4297
+C:\Users\Lenovo\AppData\Local\Temp\tmpx4d2nzft_cropped.png	reliance                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpxl2dzylg_cropped.png	life                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpjc_hdhf7_cropped.png	life                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpjn4tfml1_cropped.png	growth                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpmwzm064g_cropped.png	reliance                 	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpd4wekd11_cropped.png	jiofi                    	0.9995
+C:\Users\Lenovo\AppData\Local\Temp\tmpqg11aomo_cropped.png	jmr541                   	0.9806
+C:\Users\Lenovo\AppData\Local\Temp\tmpuxygsqhj_cropped.png	your                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpytvxvmbd_cropped.png	hotspot                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpzygngxz__cropped.png	personal                 	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp7cdjebzl_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpn489k7ti_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpywx_zwl0_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpd1ny3br9_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpcj_quou0_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp7aced8i4_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmptcpv0ol9_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpg0ytyih0_cropped.png	aws                      	0.8322
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpkbuzit0u_cropped.png	aws                      	0.9985
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpb560yomw_cropped.png	aws                      	0.9996
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp6gor0vw2_cropped.png	aws                      	0.9987
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpg9zy53v1_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpfvw26nfj_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp6tp1awg7_cropped.png	aws                      	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpatdhicwe_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpnk86uzmn_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp8j28cmi5_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp37_9bu5s_cropped.png	aws                      	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpyz2q6q3w_cropped.png	aws                      	0.9996
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpz2crer0g_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp7pns6u_n_cropped.png	p                        	0.6505
+C:\Users\Lenovo\AppData\Local\Temp\tmp_6yrkkk3_cropped.png	aws                      	0.9967
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmphpeqnu14_cropped.png	aws                      	0.4527
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp_r8cz411_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp_06swrfu_cropped.png	aws                      	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmph6dne9oi_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp5xqwqjzx_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp2znpwlp0_cropped.png	new                      	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpm2xryrla_cropped.png	pack                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp6_sujqhd_cropped.png	new                      	0.9388
+C:\Users\Lenovo\AppData\Local\Temp\tmp7v18a75u_cropped.png	haldirams                	0.9982
+C:\Users\Lenovo\AppData\Local\Temp\tmp8iu4wj8e_cropped.png	fun                      	0.9952
+C:\Users\Lenovo\AppData\Local\Temp\tmp_oqd2i3a_cropped.png	namkeen                  	0.2937
+C:\Users\Lenovo\AppData\Local\Temp\tmpe3lcv1ho_cropped.png	fingers                  	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpj_dio7t3_cropped.png	pack                     	0.4274
+C:\Users\Lenovo\AppData\Local\Temp\tmpmzjcqgis_cropped.png	ster                     	0.0999
+C:\Users\Lenovo\AppData\Local\Temp\tmpu591ko2g_cropped.png	imasala                  	0.6957
+C:\Users\Lenovo\AppData\Local\Temp\tmpy2fbyz12_cropped.png	magic                    	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp3k1piury_cropped.png	on                       	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmp6d60i306_cropped.png	bestseller               	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmp621dzc_q_cropped.png	notes                    	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmp95788l5i_cropped.png	to                       	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp_qe49mz1_cropped.png	blake                    	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmp_qsndkrq_cropped.png	to                       	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpad9ybpp2_cropped.png	startups                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpbgi98_7x_cropped.png	masters                  	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpc873wa_9_cropped.png	future                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpgzqh95xl_cropped.png	peter                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpi7zcfv6b_cropped.png	the                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpkfsylns9_cropped.png	build                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmple6_n0xq_cropped.png	one                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpqiqn_a1m_cropped.png	zero                     	0.9967
+C:\Users\Lenovo\AppData\Local\Temp\tmpra4qb5rv_cropped.png	with                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpvlr_tj2y_cropped.png	international            	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpvw5oy_5i_cropped.png	thiel                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpvztw8zrw_cropped.png	entrepreneurship         	0.9973
+C:\Users\Lenovo\AppData\Local\Temp\tmpxrpfbm_p_cropped.png	provoking                	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpyi0pl8_p_cropped.png	how                      	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp2ec_g0bx_cropped.png	with                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp8hevc6wr_cropped.png	one                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp9p5bgi85_cropped.png	on                       	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmp117cybo6_cropped.png	thiel                    	0.9985
+C:\Users\Lenovo\AppData\Local\Temp\tmp__9y6isg_cropped.png	to                       	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp_p0tjj2t_cropped.png	thought                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpbygrgwaw_cropped.png	provoking                	0.9990
+C:\Users\Lenovo\AppData\Local\Temp\tmpferr55cl_cropped.png	notes                    	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpgf08dkdv_cropped.png	future                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmphmzkg361_cropped.png	masters                  	0.9988
+C:\Users\Lenovo\AppData\Local\Temp\tmpkfl9jlot_cropped.png	entrepreneurship         	0.9934
+C:\Users\Lenovo\AppData\Local\Temp\tmpkgx75b0q_cropped.png	build                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpkpvuvbdv_cropped.png	the                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpkr6tjujp_cropped.png	to                       	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpm0u7gdth_cropped.png	zero                     	0.9911
+C:\Users\Lenovo\AppData\Local\Temp\tmpn0wrhja4_cropped.png	startups                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmppnclgvo5_cropped.png	how                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmppziwr7eq_cropped.png	international            	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpsfychdmf_cropped.png	bestseller               	0.9984
+C:\Users\Lenovo\AppData\Local\Temp\tmptrpcfm8__cropped.png	peter                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpzzg30znh_cropped.png	blake                    	0.9993
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp1f0w2f7x_cropped.png	to                       	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp3e0x0jl8_cropped.png	notes                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmp3gwruzhk_cropped.png	how                      	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp6hip6soc_cropped.png	the                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp24ru2gz3_cropped.png	startups                 	0.9992
+C:\Users\Lenovo\AppData\Local\Temp\tmp57qjybxq_cropped.png	provoking                	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmp_5p2lbi__cropped.png	future                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpc6vjofyy_cropped.png	on                       	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpdtya824q_cropped.png	blake                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpexyzvdl3_cropped.png	zero                     	0.9690
+C:\Users\Lenovo\AppData\Local\Temp\tmpf9bw1x24_cropped.png	international            	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpfvf1qtyc_cropped.png	with                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpkmno6n9g_cropped.png	peter                    	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpm430xo1m_cropped.png	masters                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpnc0nf2tk_cropped.png	bestseller               	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpp7a6ur61_cropped.png	one                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmps310k0kl_cropped.png	build                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmptvmr_2qx_cropped.png	thiel                    	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpucnbafjn_cropped.png	to                       	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpqzrqpds4_cropped.png	aws                      	0.9951
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpnvke__ud_cropped.png	aws                      	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp5r30ithj_cropped.png	nivea                    	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmp13zuim5i_cropped.png	creme                    	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpdhmvjjx8_cropped.png	soft                     	0.9943
+C:\Users\Lenovo\AppData\Local\Temp\tmpk4tronrn_cropped.png	125g                     	0.9881
+C:\Users\Lenovo\AppData\Local\Temp\tmpmbgicpp0_cropped.png	creme                    	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpywolcsdq_cropped.png	soap                     	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp0wazglwt_cropped.png	feedback                 	0.9995
+C:\Users\Lenovo\AppData\Local\Temp\tmp3vpv5w2x_cropped.png	cremel                   	0.5711
+C:\Users\Lenovo\AppData\Local\Temp\tmp4p4h45xf_cropped.png	wwwhind                  	0.9479
+C:\Users\Lenovo\AppData\Local\Temp\tmp7bncwuvc_cropped.png	621                      	0.9976
+C:\Users\Lenovo\AppData\Local\Temp\tmp8kr83z5d_cropped.png	quality                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp17befbal_cropped.png	iniveal                  	0.1108
+C:\Users\Lenovo\AppData\Local\Temp\tmp70i2ly6o_cropped.png	himalay                  	0.9993
+C:\Users\Lenovo\AppData\Local\Temp\tmpa1ktoo1r_cropped.png	consumer                 	0.9956
+C:\Users\Lenovo\AppData\Local\Temp\tmpezo9vjnd_cropped.png	nataraj                  	0.9987
+C:\Users\Lenovo\AppData\Local\Temp\tmpjganprff_cropped.png	soft                     	0.3312
+C:\Users\Lenovo\AppData\Local\Temp\tmpornf6did_cropped.png	hindusta                 	0.9995
+C:\Users\Lenovo\AppData\Local\Temp\tmpq93oj4hl_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpv0g9z_95_cropped.png	hindustan                	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpv2jm_rzl_cropped.png	bold                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpy033ngi7_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpy714ilk0_cropped.png	mumbai                   	0.9996
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp2cw2k_gd_cropped.png	mumbai                   	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmp8zhmbuqs_cropped.png	bold                     	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpc2ocopnp_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpea8t28b4_cropped.png	hindust                  	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmph5jwno9w_cropped.png	consume                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmphh5kctrf_cropped.png	hindustal                	0.4700
+C:\Users\Lenovo\AppData\Local\Temp\tmpj9njgif8_cropped.png	quality                  	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpkohmvuue_cropped.png	feedbacko                	0.3108
+C:\Users\Lenovo\AppData\Local\Temp\tmpplgmjeik_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpr4mxrfd9_cropped.png	621                      	0.9974
+C:\Users\Lenovo\AppData\Local\Temp\tmpt65a4jgm_cropped.png	nataraj                  	0.9987
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp27u9uo0v_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp90jpdvax_cropped.png	mumbai                   	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpby05mhau_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpfdl5373z_cropped.png	consume                  	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpfhzd9p6b_cropped.png	quality                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpqxqwye6h_cropped.png	hindustar                	0.9743
+C:\Users\Lenovo\AppData\Local\Temp\tmpry24xwf7_cropped.png	hindust                  	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpsr7fq8pl_cropped.png	bold                     	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmptmfbv21b_cropped.png	feedbacka                	0.9336
+C:\Users\Lenovo\AppData\Local\Temp\tmptyrs2dp4_cropped.png	nataraj                  	0.9986
+C:\Users\Lenovo\AppData\Local\Temp\tmpxs1qpnj5_cropped.png	621                      	0.9934
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp1ufkff2f_cropped.png	bold                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp0513bi2u_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpbf31mphc_cropped.png	nataraj                  	0.9988
+C:\Users\Lenovo\AppData\Local\Temp\tmplb6o_lxs_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpvtd2948x_cropped.png	621                      	0.9969
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpi8qei67w_cropped.png	bold                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpljemmq_e_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmppa3caz9n_cropped.png	621                      	0.9973
+C:\Users\Lenovo\AppData\Local\Temp\tmpriem3m1t_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpvmo1ordg_cropped.png	nataraj                  	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp65gttwkc_cropped.png	general                  	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpod93lj3w_cropped.png	fevicol                  	0.6288
+C:\Users\Lenovo\AppData\Local\Temp\tmpoo_bjcm4_cropped.png	purpose                  	0.9926
+C:\Users\Lenovo\AppData\Local\Temp\tmpoo_z6imw_cropped.png	mr                       	0.9989
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp57hcxs91_cropped.png	bold                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpi5108hgp_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpvyh4ytql_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpyxb9rvft_cropped.png	621                      	0.9971
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpayhqwzly_cropped.png	nataraj                  	0.9993
+C:\Users\Lenovo\AppData\Local\Temp\tmpcnsuotp3_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmprgagq_ls_cropped.png	621                      	0.9823
+C:\Users\Lenovo\AppData\Local\Temp\tmprjuwn_d0_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpztp5fi2o_cropped.png	bold                     	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpapqtceyi_cropped.png	301                      	0.0838
+C:\Users\Lenovo\AppData\Local\Temp\tmpdrpibs6c_cropped.png	super                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpdwf11z09_cropped.png	boat                     	0.9834
+C:\Users\Lenovo\AppData\Local\Temp\tmpho89p37g_cropped.png	selled                   	0.0002
+C:\Users\Lenovo\AppData\Local\Temp\tmpmc72rtpk_cropped.png	bass                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpx_27rk22_cropped.png	7voq                     	0.2686
+C:\Users\Lenovo\AppData\Local\Temp\tmpytrffdqy_cropped.png	extraaa                  	0.9978
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp0m8w6z7r_cropped.png	relieving                	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp2iy0tdiy_cropped.png	lemon                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp3t_0qar3_cropped.png	conscious                	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmp883cyfrt_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp_2qv6cw0_cropped.png	stress                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpa7xwlwde_cropped.png	certified                	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpaeex66bb_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmparmpz0vd_cropped.png	india                    	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpd8aj5huy_cropped.png	living                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpdjjt0uk6_cropped.png	contains                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpfylnxfpq_cropped.png	refreshing               	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpgkicyc_r_cropped.png	tea                      	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpi41epa5x_cropped.png	25n                      	0.9729
+C:\Users\Lenovo\AppData\Local\Temp\tmpkq43l74m_cropped.png	caffeine                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmplk_961_3_cropped.png	ginger                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpphk7_mol_cropped.png	earth                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpqostl3dd_cropped.png	tulsi                    	0.9985
+C:\Users\Lenovo\AppData\Local\Temp\tmpto6ns3dd_cropped.png	green                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpwiqsebl2_cropped.png	seer                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpx1ebisew_cropped.png	healthy                  	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp0f87svjh_cropped.png	living                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp1j8c4q19_cropped.png	tea                      	0.9972
+C:\Users\Lenovo\AppData\Local\Temp\tmp7xuiut_t_cropped.png	caffeine                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp09jy011f_cropped.png	lemon                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp9ya6i1wr_cropped.png	stress                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp999v8b3c_cropped.png	seer                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpa0e8ztcy_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpciq261wp_cropped.png	india                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpeayuuuc4_cropped.png	refreshing               	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpey1zplj0_cropped.png	conscious                	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpfh_ahsej_cropped.png	earth                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpgxm8xdny_cropped.png	organic                  	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpk92jli6j_cropped.png	25n                      	0.9935
+C:\Users\Lenovo\AppData\Local\Temp\tmpk93_arql_cropped.png	healthy                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpm98zse_6_cropped.png	green                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpmz2m6leu_cropped.png	contains                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpnhh406yw_cropped.png	relieving                	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpphnqeqmt_cropped.png	tulsi                    	0.9979
+C:\Users\Lenovo\AppData\Local\Temp\tmpub8xrwx7_cropped.png	ginger                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpxwl65zef_cropped.png	certified                	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmpbt9nncsv_cropped.png	nataraj                  	0.9991
+C:\Users\Lenovo\AppData\Local\Temp\tmpcbgd7qcf_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpd028qjh6_cropped.png	bold                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmphi5b7e_i_cropped.png	pencils                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpokh3kbr1_cropped.png	621                      	0.9856
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp0qgj1ake_cropped.png	125g                     	0.9931
+C:\Users\Lenovo\AppData\Local\Temp\tmpg_0_kf4n_cropped.png	creme                    	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpm0czsuqg_cropped.png	creme                    	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpqo1zd60v_cropped.png	nivea                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpti5w9ldu_cropped.png	soft                     	0.9468
+C:\Users\Lenovo\AppData\Local\Temp\tmpuosvkwbd_cropped.png	soap                     	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp7_lqiuco_cropped.png	contains                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp7s1p37wp_cropped.png	tulsi                    	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmp13deah9w_cropped.png	healthy                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp15d79_c5_cropped.png	relieving                	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp56awan9c_cropped.png	earth                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpaucaej1y_cropped.png	certified                	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpb1yap0nk_cropped.png	ginger                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpch9pfdi__cropped.png	conscious                	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmpeo07wfei_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpfcsx2x7n_cropped.png	tea                      	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmph63cjzep_cropped.png	lemon                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpiq6grlpo_cropped.png	refreshing               	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpivt7hb7s_cropped.png	organic                  	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpl1rtceui_cropped.png	25n                      	0.9663
+C:\Users\Lenovo\AppData\Local\Temp\tmppvqfnqt__cropped.png	seer                     	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmps1txprzu_cropped.png	india                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpsdj_g4qr_cropped.png	living                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpsedgnn_p_cropped.png	green                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpt3rvsub0_cropped.png	stress                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmptbeikst2_cropped.png	caffeine                 	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp__p26vlw_cropped.png	nataraj                  	0.9993
+C:\Users\Lenovo\AppData\Local\Temp\tmpinnb0ndb_cropped.png	writing                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpjaiqt7bd_cropped.png	bold                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpngzqnmbn_cropped.png	621                      	0.9969
+C:\Users\Lenovo\AppData\Local\Temp\tmppt8cvnu1_cropped.png	pencils                  	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp2v94c6ca_cropped.png	perfect                  	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmp3ufegrrw_cropped.png	simply                   	0.9989
+C:\Users\Lenovo\AppData\Local\Temp\tmp4irzd_4s_cropped.png	sonic                    	0.9996
+C:\Users\Lenovo\AppData\Local\Temp\tmp7_hxikx1_cropped.png	japanese                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp9rpjyzki_cropped.png	germany                  	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp242iupfd_cropped.png	stainless                	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpgih9lm6o_cropped.png	gel                      	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpkdggottd_cropped.png	technology               	0.9870
+C:\Users\Lenovo\AppData\Local\Temp\tmpl0fvrcdj_cropped.png	pen                      	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpnz9r2jbf_cropped.png	german                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpqe28jzsq_cropped.png	hauser                   	0.9967
+C:\Users\Lenovo\AppData\Local\Temp\tmpqzl4muy4_cropped.png	10pcs                    	0.9853
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp7hl187yg_cropped.png	contains                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp7om_dh6z_cropped.png	ginger                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmp9ur6t23d_cropped.png	certified                	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmp42hdbwqq_cropped.png	25n                      	0.9877
+C:\Users\Lenovo\AppData\Local\Temp\tmp802w1xbw_cropped.png	living                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp_6e3a1iu_cropped.png	seer                     	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpav3t4j63_cropped.png	refreshing               	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpceih1n4a_cropped.png	healthy                  	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpcpvqpkv2_cropped.png	conscious                	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpcul6q9zr_cropped.png	stress                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpe_tvcqhv_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpfhnzpa86_cropped.png	caffeine                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmph88rrpw4_cropped.png	lemon                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpivdvkzia_cropped.png	tulsi                    	0.9994
+C:\Users\Lenovo\AppData\Local\Temp\tmpr9x7or5r_cropped.png	relieving                	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpso45bkf5_cropped.png	earth                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmptq03slsh_cropped.png	india                    	0.9995
+C:\Users\Lenovo\AppData\Local\Temp\tmptsqaj7qo_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpwuo10tqt_cropped.png	green                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpxlq5t3ut_cropped.png	tea                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+C:\Users\Lenovo\AppData\Local\Temp\tmp8atjgteu_cropped.png	caffeine                 	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmp56_49w5d_cropped.png	india                    	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpa5lsfoog_cropped.png	relieving                	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpabbevlvx_cropped.png	living                   	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpanc92dk4_cropped.png	certified                	0.9997
+C:\Users\Lenovo\AppData\Local\Temp\tmpd3142zmw_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpfwwpzyvj_cropped.png	lemon                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpjct2oihe_cropped.png	stress                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpk3_5slj1_cropped.png	contains                 	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpl0qgx2cj_cropped.png	refreshing               	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpniup_2k4_cropped.png	green                    	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpopwwh69q_cropped.png	tea                      	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpribyd3r5_cropped.png	conscious                	0.9998
+C:\Users\Lenovo\AppData\Local\Temp\tmpsqjgf76n_cropped.png	tulsi                    	0.9995
+C:\Users\Lenovo\AppData\Local\Temp\tmpu3neokd2_cropped.png	ginger                   	1.0000
+C:\Users\Lenovo\AppData\Local\Temp\tmpu9_neb9__cropped.png	earth                    	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpv49dm85d_cropped.png	25n                      	0.9903
+C:\Users\Lenovo\AppData\Local\Temp\tmpwbu1j2io_cropped.png	healthy                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpy5ow4tbw_cropped.png	organic                  	0.9999
+C:\Users\Lenovo\AppData\Local\Temp\tmpyzxo7l0o_cropped.png	seer                     	1.0000
